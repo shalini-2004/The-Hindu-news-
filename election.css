@@ -1,0 +1,390 @@
+
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box;
+}
+/* .center{
+    text-align: center;
+    border-radius: 2px;
+    border:1px solid black;
+    width:100%;
+    padding-top:0.7rem;
+    padding-bottom:0.7rem;
+    display: flex;
+    justify-content: center;
+} */
+.nav{
+    height:50%;
+    width:100%;
+    box-shadow: 0px 0px 15px 0px rgb(169, 165, 165);
+    padding-bottom: 1rem;
+}
+.logo-main{
+    height:5rem;
+    width:30rem;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    padding-top:1.5rem;
+}
+.n1{
+    display: flex;
+    justify-content:center;
+    
+}
+.list{
+    display: flex;
+    gap: 1.5rem;
+    font-size:1.3rem;
+    list-style-type: none;
+    padding-top: 1rem;
+    font-family: serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.item{
+    height:3rem;
+    width: 10rem;
+    border-top: 5px solid black;
+    padding-top:5px;
+    margin: 0px,10px,5px,0px;
+}
+.n2{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    gap:20%;
+}
+.list2{
+    display: flex;
+    font-size:small;
+    list-style-type:none;
+    gap:0.2rem;
+}
+.extra{
+    color:#B00020;
+}
+.a2{
+    color: #B00020;
+}
+.find{
+    color:#766a6a;
+    /* font-family: sans-serif; */
+    margin-left: 1rem;
+}
+.btn{
+    height:2.2rem;
+    width:8rem;
+    margin-left:1rem;
+    border-radius:5%;
+    border: 1px solid;
+}
+#sub{
+    background-color:#B00020;
+    color: #ffffff;
+}
+
+
+
+
+
+
+.padding{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.center{
+    margin: 2px;
+}
+ 
+.line{
+    margin-top: 4px ;
+}
+ 
+.center-color{
+    color: rgb(202, 30, 30); 
+    display: flex;
+    justify-content: center;
+    height: 0px;
+}
+.s{
+    font-size:2rem;
+    position: absolute;
+    background-color:white;
+    /* top: 19rem; */
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.pay{
+    text-align: center;
+    margin-left: 10rem;
+    margin-top: 2rem;
+}
+
+/* .s{
+    position: absolute;
+    top: 18rem;
+    font-size:2.8rem;
+    color: red;
+} */
+.one{
+    color: red;
+    text-decoration: underline;
+}
+.two{
+    color: black;
+}
+.two:hover{
+    color: red;
+    line-height: inherit;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.three{
+    color: black;
+}
+.three:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.four{
+    color: black;
+}
+.four:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.five{
+    color: black;
+}
+.five:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.six{
+    color: black;
+}
+.six:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.hello{
+    color: brown;
+    font-size: small;
+}
+.ram{
+    font-size: 25
+    ;
+}
+.hi{
+    text-align: center;
+}
+.hii{
+    color: red
+}
+.list{
+    margin-left: 20px;
+}
+.go{
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    font-size: 2rem;
+    background-color: white;
+    color: red;
+    top: 148rem;
+    padding-left: 49rem;
+}
+
+
+.para{
+    display: flex;
+}
+.a{
+    border-bottom: 1px solid black;
+    width: 41%;
+
+}
+.hol{
+    margin-top: 20px;
+    color: red;
+    background-color: white;
+
+    
+}
+
+.pop{
+    border: 1px solid red;
+    color: red;
+    margin-right: 100rem;
+    padding-left: 10px;
+}
+.hoh{
+    gap: 2px;
+    border: 2px solid red;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.div1{
+    display: flex;
+    
+}
+.div-13{
+    margin: 0px 2rem 0px 2rem;
+    
+}
+.p{
+    font-size: 20px;
+    margin-top: 5rem;
+    margin-left: 1rem;
+
+}
+.div33{
+    display: flex;
+}
+.sp{
+    margin: 0px 2rem 0px 2rem;
+}
+.kom{
+    font-size: 15px;
+    text-decoration: none;
+}
+.kom:hover{
+    text-decoration: underline;
+}
+.komal{
+    font-size: 25px;
+    text-decoration: none;
+    /* padding-left: 40px; */
+}
+
+.komal:hover{
+    text-decoration: underline;
+}
+/* #hjk{ */
+    /* font-size: 20px; */
+/* } */
+.ptii{
+    text-decoration: underline;
+}
+.ptii:hover{
+    text-decoration: none;
+}
+.pti{
+    text-decoration: underline;
+    margin-left: 1rem;
+}
+.pti:hover{
+    text-decoration: none;
+}
+.div3{
+    display: flex;
+    
+}
+
+.komal-img{
+    width: 100%;
+}
+
+.man{
+    margin: 0px 1rem 0px 1rem;
+}
+.ass{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    height: 1rem;
+
+}
+.ass1{
+    font-size: 2rem;
+    position: absolute;
+    background-color: white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.tahira{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+footer{
+    padding-left: 7rem;
+    padding-right: 7rem;
+    padding-bottom: 4rem;
+    background-color: rgb(244, 244, 244);
+    font-family:Merriweather;
+}
+.foot-div{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.for-flex{
+    display: flex;
+}
+.foot-head{
+    flex-grow: 1;
+}
+.for-grid {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-gap:1.5rem;
+}
+.foot{
+    border-top: 5px solid black;
+    padding-top: 0rem;
+    font-size: 0.9rem;
+}
+ 
+.foot-ld{
+    gap:0.5rem;
+    padding: 2rem;
+    padding-left: 0px;
+
+}
+.foot p {
+    padding-top:1rem;
+}
+.foot p b{
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.foot-terms{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    word-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
+
+}
+.foot-end{
+    padding-top: 1rem;
+}
+.foot-end p{
+    font-size:0.9rem;
+    flex-grow:1;
+}
+.foot-end button{
+    border: 0px solid;
+    padding-top:0.5rem;
+    
+}
+.gap{
+    gap: 1rem;
+}

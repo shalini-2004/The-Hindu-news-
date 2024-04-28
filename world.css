@@ -1,0 +1,479 @@
+.nav{
+    height:50%;
+    width:100%;
+    box-shadow: 0px 0px 15px 0px rgb(169, 165, 165);
+    padding-bottom: 1rem;
+}
+.logo-main{
+    height:5rem;
+    width:30rem;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    padding-top:1.5rem;
+}
+.n1{
+    display: flex;
+    justify-content:center;
+    
+}
+.list{
+    display: flex;
+    gap: 1.5rem;
+    font-size:1.3rem;
+    list-style-type: none;
+    padding-top: 1rem;
+    font-family: serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.for-gap{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.item{
+    height:3rem;
+    width: 10rem;
+    border-top: 5px solid black;
+    padding-top:5px;
+    margin: 0px,10px,5px,0px;
+}
+.n2{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    gap:20%;
+}
+.list2{
+    display: flex;
+    font-size:small;
+    list-style-type:none;
+    gap:0.2rem;
+}
+.extra{
+    color:#B00020;
+}
+.a2{
+    color: #B00020;
+}
+.find{
+    color:#766a6a;
+    /* font-family: sans-serif; */
+    margin-left: 1rem;
+}
+.btn{
+    height:2.2rem;
+    width:8rem;
+    margin-left:1rem;
+    border-radius:5%;
+    border: 1px solid;
+}
+#sub{
+    background-color:#B00020;
+    color: #ffffff;
+}
+
+
+
+.div{
+    text-align: center;
+    margin: 12px;
+}
+.add2{
+    height: 20rem;
+}
+.min-add{
+    text-align: center;
+    margin: 2rem 2rem 2rem 2rem;
+}
+.head{
+    height:3rem;
+    border: solid rgb(94, 20, 20);
+    background-color: rgb(94, 20, 20);
+}
+.year{
+    color: white;
+    text-align: center;
+}
+.wor{
+    color: rgb(199, 12, 12);
+    text-decoration: underline;
+}
+
+.world{ 
+    margin: 2px;
+}
+#five-lines{
+    height: 1.5rem;
+    /* color: orangered; */
+    font-size: large;
+    background-color:white;
+    /* height: 20px; */
+}
+.line{
+    margin-top: -5px ;
+}
+.options{
+    height: 2px;
+}
+ 
+.world-color{
+    color: rgb(202, 30, 30); 
+    display: flex;
+    justify-content: center;
+    height:0.7rem;
+}
+.world-color1{
+    font-size:2rem;
+    position: absolute;
+    background-color:white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+a:hover,line{
+    color:red;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+.society:hover{
+    text-decoration: underline;
+}
+.society{
+    color: rgb(208, 25, 25);
+}
+.society1:hover{
+    text-decoration: underline;
+
+}
+.afp{
+    text-decoration: underline;
+}
+.afp:hover{
+    text-decoration: none;
+}
+.society3:hover{
+    text-decoration: underline;
+}
+.ap{
+    text-decoration: underline;
+}
+.ap:hover{
+    text-decoration: none;
+}
+.society4:hover{
+    text-decoration: underline;
+}
+#public{
+    height: 12rem;
+}
+.public1{
+    margin-left: 19rem;
+    margin-top: -13.5rem;
+}
+.Taiwan:hover{
+    text-decoration: underline;
+}
+.min-div{
+    display: flex;
+    padding-left:3rem;
+    padding-right: 3rem;
+    justify-content: space-around;
+}
+.div1{
+    padding: 1rem;
+    /* border: solid red; */
+}
+
+.div2{
+    padding: 1rem;
+    /* border: solid green; */
+}
+.div3{
+    padding: 1rem;
+    /* border: solid blue; */
+}
+p{
+    font-size: large;
+}
+
+.israel{
+    color: orangered;
+    position: absolute;
+    background-color:white;
+    margin-top: -30.5px;
+    font-size: large;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.hr-div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#public1{
+    height: 12rem;  
+
+}
+.second-div1{
+    /* border: solid green; */
+    padding: 1rem;
+}
+.second-div2{
+    border-left: solid;
+    padding: 1rem;
+}
+.second-div3{
+    /* border: solid green; */
+    border-left: solid;
+    padding: 1rem;
+}
+.second-div4{
+    /* border: solid; */
+    border-left: solid;
+    padding: 1rem;
+}
+.second-div{
+    display: flex;
+
+}
+.see{
+    text-align: center;
+}
+.Around{
+    color: rgb(202, 30, 30); 
+    display: flex;
+    justify-content: center;
+    height:0.7rem;
+}
+.Around1{
+    font-size:2rem;
+    position: absolute;
+    background-color:white;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.uk{
+    text-align: center;
+}
+.nav1{
+    display: flex;
+    padding: 1rem;
+}
+.nav11{
+    padding: 1rem;
+    border-right: solid;
+}
+.nav33{
+    padding: 1rem;
+}
+.love1{
+    margin-top: 20rem;
+}
+.love{
+    display: flex;
+}
+.p{
+    text-align: center;
+    margin-top: 15rem;
+    font-size: small;
+    text-decoration: underline;
+}
+.p:hover{
+    text-decoration: none;
+}
+.love2{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.pp{
+    font-size: 40px;
+    color: brown;
+}
+.aa{
+    display: flex;
+}
+.para{
+    font-size: 35px;
+    margin: 1rem;
+}
+.REUTERS{
+    text-decoration: underline;
+    margin: 1rem;
+}
+.REUTERS:hover{
+    text-decoration: none;
+}
+
+.ap1{
+    text-decoration: underline;
+    margin: 1rem;
+
+}
+.ap1:hover{
+    text-decoration: none;
+}
+.IMG{
+    height: 9rem;
+    width: 9rem;
+}
+.pp1{
+    font-size: 40px;
+    color: brown;
+    text-decoration: none;
+}
+.pp1:hover{
+    text-decoration: underline;
+}
+#more{
+    font-size: small;
+}
+.medium{
+    width: 25rem;
+    height: 30rem;
+}
+.lest1{
+    font-size: 25px;
+    margin: 1rem;
+}
+.lest{
+    font-size: 25px;
+    text-decoration: none;
+    margin: 1rem;
+}
+.lest:hover{
+    text-decoration: underline;
+}
+.news{
+   border:5px;
+   background-color: beige;
+}
+.add{
+    border: solid rgb(186, 186, 174);
+    height: 25rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    background-color: rgb(183, 175, 175);
+}
+.add1{
+    border: solid grey;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 20rem;
+    box-shadow: 10px 1px 10px 1px;
+    border-radius: 8px;
+    background-color: white;
+}
+.but{
+    border-radius: 20px;
+    background-color: rgb(76, 59, 125);
+    font-size: 20px;
+    color: white;
+    width: 45rem;
+    height: 45px;
+    margin-left: 38rem;
+    margin-right: 15px;
+    margin-top: 30PX;
+    box-shadow: 10px 1px 10px 1px;   
+} 
+.butt{
+    display: flex;
+    justify-content: space-around;
+
+}
+.siser{
+    margin-left: 2rem;
+    margin-top: 4rem;
+}
+.last-div{
+    display: flex; 
+   
+}
+.tah{
+    margin: 0px 2px 0px 2px;
+    
+}
+.font{
+    font-size: 30px;
+}
+
+
+
+
+
+
+footer{
+    padding-left: 7rem;
+    padding-right: 7rem;
+    padding-bottom: 4rem;
+    background-color: rgb(244, 244, 244);
+    font-family:Merriweather;
+}
+.foot-div{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.for-flex{
+    display: flex;
+}
+.foot-head{
+    flex-grow: 1;
+}
+.for-grid {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-gap:1.5rem;
+}
+.foot{
+    border-top: 5px solid black;
+    padding-top: 0rem;
+    font-size: 0.9rem;
+}
+ 
+.foot-ld{
+    gap:0.5rem;
+    padding: 2rem;
+    padding-left: 0px;
+
+}
+.foot p {
+    padding-top:1rem;
+}
+.foot p b{
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.foot-terms{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    word-spacing: 0.2rem;
+    letter-spacing: 0.1rem;
+
+}
+.foot-end{
+    padding-top: 1rem;
+}
+.foot-end p{
+    font-size:0.9rem;
+    flex-grow:1;
+}
+.foot-end button{
+    border: 0px solid;
+    padding-top:0.5rem;
+    
+}
+.gap{
+    gap: 1rem;
+}
